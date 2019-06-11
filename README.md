@@ -1,2 +1,2 @@
 # NSWGRN
-Scanner &amp; Stuff related to NSW GRN
+Scanner Files & Stuff related to NSW GRN
